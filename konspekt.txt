@@ -1,0 +1,14 @@
+terminalni ochish => Windows + r => cmd + Enter
+terminalni ochish 2 => Shiftni bosib turib sichqonchani ong tarafini bosamiz + Powershell
+
+gitni versiyasini korish => git --version
+gitga ism saqlash => git config --global user.name "Ism kiritamiz"
+gitga Email saqlash => git config --global user.email "Email kiritasiz"
+
+gitda qanaqa ozgarishlar borligini bilish => git init
+gitni proektimizdagi holati => git status
+git fayllarni yuklash => git add File nomi
+gitga hamma fileni bittada yuklash => git add .
+
+githubdan proyektni yuklab olish => git clone githublink
+cd filenomi => terminal orqali faylni ichiga kirish
